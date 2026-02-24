@@ -1,0 +1,20 @@
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+
+buatlah dalam bahasa c dan buat dengan terstruktur
+
+buat contoh inputnya
+
+apakah memang seperti ini hasilnya?
+
+coba buatkan ulang kodenya
+
+buat contoh input-annya
+
+apakah kamu bisa membuat kode yang lebih sederhana 
+
+buat contoh input seperti sama dengan nomor 1 dan 2 tadi
+
+kenapa programnya masih error
+
+buat ulang kodenya
+
