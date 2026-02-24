@@ -34,4 +34,4 @@ kenapa hasilnya input bisa diterima
 
 buatkan hasilnya yang ada total nilai kelompok 
 
-coba buatkan kode yang pertama
+coba buatkan kode yang pertama.
