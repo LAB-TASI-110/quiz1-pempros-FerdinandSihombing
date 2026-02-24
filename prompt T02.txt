@@ -28,7 +28,7 @@ apakah ada disoal diminta total nilai kelompok?
 
 apakah ada inputan yang sekali semuanya tidak  satu satu dianalisa
 
-buatlah kodenya 
+buatlah kodenya .
 
 kenapa hasilnya input bisa diterima
 
